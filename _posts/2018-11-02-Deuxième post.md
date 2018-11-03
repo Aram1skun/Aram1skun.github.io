@@ -4,7 +4,7 @@ title: 'Premier '
 subtitle: 'CLouuds'
 date: 2018-11-02
 categories: 技术
-cover: '/assets/img/tea.jpg'
+cover: '/assets/img/tea2.jpg'
 tags: jekyll 前端开发 设计
 ---
 
