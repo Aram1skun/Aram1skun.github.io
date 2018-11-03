@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Premier '
+title: 'Premier post!'
 subtitle: 'CLouuds'
 date: 2018-11-02
 categories: 技术
