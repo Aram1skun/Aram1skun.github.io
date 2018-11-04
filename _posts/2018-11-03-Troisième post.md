@@ -10,5 +10,6 @@ tags: jekyll 前端开发 设计
 
 Salut!
 
-![My helpful screenshot](/assets/img/FAA8B1D2-BD87-42F0-9232-16F7F6CF2A9C.jpeg)
-FAA8B1D2-BD87-42F0-9232-16F7F6CF2A9C.jpeg
+![My helpful screenshot](/assets/img/tea3.jpg)
+
+Test avec Ipad lors dune journee nuageuse et filtre vif.
