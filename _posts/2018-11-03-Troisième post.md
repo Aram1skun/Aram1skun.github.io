@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Troisième post déjà!'
-subtitle: 'Dong Pian Si Ji Chun de MingJiang'
+subtitle: 'Dong Pian Si Ji Chun de MingJiang HIver 2018'
 date: 2018-11-04
 categories: 技术
 cover: '/assets/img/FAA8B1D2-BD87-42F0-9232-16F7F6CF2A9C.jpeg'
