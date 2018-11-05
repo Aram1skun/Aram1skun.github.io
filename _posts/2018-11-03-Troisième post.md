@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Troisième post déjà!'
-subtitle: 'Dong Pian Si Ji Chun de MingJiang HIver 2018'
+subtitle: 'Dong Pian Si Ji Chun de MingJiang Hiver 2018'
 date: 2018-11-04
-categories: 技术
+categories: Reviews
 cover: '/assets/img/FAA8B1D2-BD87-42F0-9232-16F7F6CF2A9C.jpeg'
 tags: jekyll 前端开发 设计
 ---
