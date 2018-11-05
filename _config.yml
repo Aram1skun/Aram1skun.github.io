@@ -9,7 +9,7 @@ url: 'https://aram1skun.github.io' # your host
 
 # Navigation links
 nav:
-  home: '/'
+  Accueil: '/'
   Mots clés: '/tags.html'
   À propos de moi: '/about.html'
 
