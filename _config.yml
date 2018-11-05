@@ -11,6 +11,7 @@ url: 'https://aram1skun.github.io' # your host
 nav:
   home: '/'
   tags: '/tags.html'
+  À propos de moi: '/about.html'
 
 # Footer
 footer:
