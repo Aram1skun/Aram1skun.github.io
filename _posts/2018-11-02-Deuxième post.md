@@ -5,7 +5,7 @@ subtitle: 'Tea cuuups'
 date: 2018-11-02
 categories: 技术
 cover: '/assets/img/tea2.jpg'
-tags: jekyll 前端开发 设计
+tags: Reviews GreenTea 
 ---
 
 Salut!
